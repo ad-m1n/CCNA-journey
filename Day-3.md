@@ -17,7 +17,6 @@ In today's progression, I covered:
   
   -> Combined both = Socket (192.168.1.1:443)
   
----
 
 ## Protocols:
 
