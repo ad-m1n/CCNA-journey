@@ -1,6 +1,12 @@
 # Day 3-Networking fundamentals: Connections
 
-In today's progression, I learned about network's fundamentals in connections, such as protocols, addressing, and lifecycles.
+In today's progression, I covered:
+
+  - Addressing
+  - Protocols
+  - The OSI Model (7 layers)
+  - Performance Metrics
+  - Security layers
 
 ---
 
