@@ -9,7 +9,7 @@ In today's progression, I learned about network's fundamentals in connections, s
 - IP address: It identifies devices in a network (IPv4: Short, such as 192.168.1.1 while IPv6 is longer hex format)
 - Port number: Identifies specific services or application on that device (port 80 = HTTP, 443 = HTTPS and 22 = SSH)
   
--> Combined both = Socket (192.168.1.1:443)
+  -> Combined both = Socket (192.168.1.1:443)
   
 ---
 
