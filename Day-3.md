@@ -32,7 +32,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
       
 
   <p align="center">
-  <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/10-2.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+  <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus1.png" alt="Day 3-Networking fundamentals: Connections" width="500">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
 
   
   <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/10-2.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus2.png" alt="Day 3-Networking fundamentals: Connections" width="500">
   </p>
 
   <p align="center">
