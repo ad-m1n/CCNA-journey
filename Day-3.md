@@ -135,3 +135,28 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
       PUT / PATCH: Update existing data.
 
       DELETE: Remove data.
+
+## The OSI Model (7 layers) concept:
+
+  - Physical – cables, signals
+  - Data Link – MAC addresses, switches
+  - Network – IP addresses, routing
+  - Transport – TCP/UDP, ports
+  - Session – managing connections/sessions
+  - Presentation – encryption, data formatting
+  - Application – HTTP, FTP, DNS, etc.
+
+     <p align="center">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus6.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+  </p>
+  <p align="center">
+   The OSI Model.
+  </p>
+
+## Performance Metrics:
+
+  - Bandwidth – max data capacity of a connection
+  - Latency – delay between sending and receiving
+  - Throughput – actual data transferred over time
+  - Jitter – variation in latency (critical for real-time apps)
+  - Packet loss – data that fails to arrive
