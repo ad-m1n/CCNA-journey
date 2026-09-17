@@ -2,6 +2,8 @@
 
 In today's progression, I learned about network's fundamentals in connections, such as protocols, addressing, and lifecycles.
 
+---
+
 ## Addressing:
 
 - IP address: It identifies devices in a network (IPv4: Short, such as 192.168.1.1 while IPv6 is longer hex format)
@@ -23,6 +25,8 @@ This is what defines how data is formatted, sent and interpreted.
   - Congestion control: Prevent overwhelming the network itself.
   - Flow control: Prevent sender from overwhelming the receiver.
   - Termination: Four-way handshake using FIN/ACK from both side to close cleanly.
+
+---
 
  ### Four-way Handshake:
 
@@ -136,6 +140,8 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
 
       DELETE: Remove data.
 
+---
+
 ## The OSI Model (7 layers) concept:
 
   - Physical – cables, signals
@@ -153,6 +159,8 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
    The OSI Model.
   </p>
 
+---
+
 ## Performance Metrics:
 
   - Bandwidth – max data capacity of a connection
@@ -160,3 +168,56 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
   - Throughput – actual data transferred over time
   - Jitter – variation in latency (critical for real-time apps)
   - Packet loss – data that fails to arrive
+  - 
+---
+
+## Security layer:
+
+- TLS (Transport Layer Security), the modern successor to SSL—sits directly between the Transport Layer (TCP) and the Application Layer. It encrypts plain text data (like HTTP) into unreadable cipher text (creating HTTPS) before network transmission.
+    - TLS/SSL: encrypts connections (HTTPS = HTTP + TLS)
+- Firewalls: filter traffic based on rules.
+- VPNs: create encrypted tunnels between networks.
+
+```text
+Application Layer(HTTP, SMTP, FTP or Raw Data)<---Security layer(Encryption, Authentication, Integrity)<---Transport layer (TCP-Reliable Delivery)
+```
+
+---
+
+### The TSL Handshake:
+
+  Immediately after the TCP 3-way handshake finishes, the TLS handshake negotiates encryption parameters.
+
+   <p align="center">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus7.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+  </p>
+  <p align="center">
+   The TSL Handshake.
+  </p>
+
+---
+
+### TSL/SSL:
+
+  Encrypts specific application traffic (e.g., HTTPS)
+
+ <p align="center">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus8.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+  </p>
+  <p align="center">
+   The TSL/SSL concept.
+  </p>
+
+---
+
+### Firewalls:
+
+  Filters network traffic based on security rules.
+
+---
+
+### VPNs:
+
+Encrypts all device traffic and masks IP address
+
+---
