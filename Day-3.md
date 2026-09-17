@@ -58,7 +58,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
 
 - Application-layer protocol: defines the rules, message formats, and data structures (like JSON or HTML) software uses to communicate, using underlying TCP or UDP connections to handle raw network delivery.
   
-  -Core Functions:
+  - Core Functions:
 
     Data Formatting: Converts raw bytes into structured data (web pages, commands, files).
 
