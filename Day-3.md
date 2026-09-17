@@ -70,5 +70,5 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
     <img src=" " alt="Day 3-Networking fundamentals: Connections" width="500">
   </p>
   <p align="center">
-   Application-layer purposes in protocols.
+   Application-layer protocol.
   </p>
