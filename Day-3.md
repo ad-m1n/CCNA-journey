@@ -67,7 +67,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
     Application State: Manages user authentication, sessions, and protocol-specific errors independently of the underlying network.
 
   <p align="center">
-    <img src=" " alt="Day 3-Networking fundamentals: Connections" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus3.png" alt="Day 3-Networking fundamentals: Connections" width="500">
   </p>
   <p align="center">
    Application-layer protocol.
