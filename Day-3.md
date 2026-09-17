@@ -168,7 +168,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
   - Throughput – actual data transferred over time
   - Jitter – variation in latency (critical for real-time apps)
   - Packet loss – data that fails to arrive
-  - 
+    
 ---
 
 ## Security layer:
@@ -195,7 +195,6 @@ Application Layer(HTTP, SMTP, FTP or Raw Data)<---Security layer(Encryption, Aut
    The TSL Handshake.
   </p>
 
----
 
 ### TSL/SSL:
 
@@ -208,16 +207,13 @@ Application Layer(HTTP, SMTP, FTP or Raw Data)<---Security layer(Encryption, Aut
    The TSL/SSL concept.
   </p>
 
----
 
 ### Firewalls:
 
   Filters network traffic based on security rules.
 
----
 
 ### VPNs:
 
 Encrypts all device traffic and masks IP address
 
----
