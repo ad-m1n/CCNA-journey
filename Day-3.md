@@ -55,3 +55,20 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
   <p align="center">
   Illustration on how the Fire-and-Forget delivery stands different compare to TCP's Three-way handshake.
   </p>
+
+- Application-layer protocol: defines the rules, message formats, and data structures (like JSON or HTML) software uses to communicate, using underlying TCP or UDP connections to handle raw network delivery.
+  
+  -Core Functions:
+
+    Data Formatting: Converts raw bytes into structured data (web pages, commands, files).
+
+    Communication Rules: Dictates request types ( GET, POST), response codes ( 200 OK, 404), and message boundaries.
+
+    Application State: Manages user authentication, sessions, and protocol-specific errors independently of the underlying network.
+
+  <p align="center">
+    <img src=" " alt="Day 3-Networking fundamentals: Connections" width="500">
+  </p>
+  <p align="center">
+   Application-layer purposes in protocols.
+  </p>
