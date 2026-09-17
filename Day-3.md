@@ -39,7 +39,7 @@ In this process, there are 3 stages: FIN/ACK, ACK, FIN/ACK, ACK
   - ACK (Acknowledge): Acknowledges request; connection fully closes on both ends.
  
 <p align="center">
-  <img src=" " alt="Day 3-Networking fundamentals: Connections" width="500">
+  <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus4.png" alt="Day 3-Networking fundamentals: Connections" width="500">
 </p>
 
 <p align="center">
@@ -57,7 +57,15 @@ In this process, there are 3 stages: FIN/ACK, ACK, FIN/ACK, ACK
        - Message 3 (AP to Client): AP verifies the signature, derives the encryption key, and sends the network's group key (GTK).
 
         - Message 4 (Client to AP): Client confirms key installation, establishing an encrypted link.
-      
+
+<p align="center">
+  <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus5.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+</p>
+
+<p align="center">
+  Illustration on WPA3 vs WPA2 vs WPA vs WEP.
+</p>
+
 ### The Three-way Handshake (TCP set up process):
     
 ```text
