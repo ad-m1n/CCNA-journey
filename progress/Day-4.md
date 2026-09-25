@@ -1,5 +1,14 @@
 # Day 4: Fundamentals of Ethernet LANs
 
+In today's progress, I've covered: 
+    - Typical SOHO LAN
+    - Typical Enterprise LAN
+    - Ethernet Fundamentals
+    - Data-Link Layer
+    - UTP Cabling
+    - Pinouts
+    - Fiber Optics
+    - The Ethernet Frame
 
 ## Typical SOHO LANs:
 - SOHO LAN (Small Office/Home Office Local Area Network): Small-scale network (typically 1–15 devices) used in a home or small business, usually built with a single router/switch combo device that handles routing, switching, DHCP, NAT, and Wi-Fi all in one box.
