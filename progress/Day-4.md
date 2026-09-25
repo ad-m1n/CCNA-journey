@@ -1,14 +1,23 @@
 # Day 4: Fundamentals of Ethernet LANs
 
 In today's progress, I've covered: 
-    - Typical SOHO LAN
-    - Typical Enterprise LAN
-    - Ethernet Fundamentals
-    - Data-Link Layer
-    - UTP Cabling
-    - Pinouts
-    - Fiber Optics
-    - The Ethernet Frame
+
+- Typical SOHO LAN
+    
+- Typical Enterprise LAN
+    
+- Ethernet Fundamentals
+    
+- Data-Link Layer
+    
+- UTP Cabling
+    
+- Pinouts
+    
+- Fiber Optics
+    
+- The Ethernet Frame
+    
 
 ## Typical SOHO LANs:
 - SOHO LAN (Small Office/Home Office Local Area Network): Small-scale network (typically 1–15 devices) used in a home or small business, usually built with a single router/switch combo device that handles routing, switching, DHCP, NAT, and Wi-Fi all in one box.
@@ -64,7 +73,7 @@ In today's progress, I've covered:
   ### UTP (Unshielded Twisted-Pair) Cabling:
   - To send data over copper, you need a closed electrical loop, which is why wires come in pairs. 
   - Twisting each pair cancels out electromagnetic interference (EMI) that would otherwise cause crosstalk between wires.
-  - 
+    
   <p align="center">
     <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus13.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
