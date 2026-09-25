@@ -14,7 +14,7 @@ In today's progress, I've covered:
 - SOHO LAN (Small Office/Home Office Local Area Network): Small-scale network (typically 1–15 devices) used in a home or small business, usually built with a single router/switch combo device that handles routing, switching, DHCP, NAT, and Wi-Fi all in one box.
 
 <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus9.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus9.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   <p align="center">
@@ -25,7 +25,7 @@ In today's progress, I've covered:
 - Enterprise LAN: Larger-scale network (100s–1000s of devices) built for reliability, security, and scalability, using separate dedicated devices for each function instead of one all-in-one box.
 
 <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus10.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus10.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   <p align="center">
@@ -42,7 +42,7 @@ In today's progress, I've covered:
     - Fiber-optic: which uses light and reaches much farther. 
 
   <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus11.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus11.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   <p align="center">
@@ -54,7 +54,7 @@ In today's progress, I've covered:
   - This consistency is what lets a switch forward traffic seamlessly between, say, a fiber link and a copper link — the "envelope" wrapping the data never changes shape.
   
   <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus12.png?raw=true" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus12.png?raw=true" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   <p align="center">
@@ -66,7 +66,7 @@ In today's progress, I've covered:
   - Twisting each pair cancels out electromagnetic interference (EMI) that would otherwise cause crosstalk between wires.
   - 
   <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus13.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus13.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   <p align="center">
@@ -82,7 +82,7 @@ In today's progress, I've covered:
     - Switches and hubs: transmit on pins 3&6, receive on 1&2
     
     <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus133.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus133.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   - This determines the cable types needed:
@@ -91,13 +91,13 @@ In today's progress, I've covered:
     - Audio-MDIX: a Gigabit-era feature that detects the wrong cable type and automatically adjusts, so you don't need to worry about which cable to use.
     
     <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus14.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus14.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   - Gigabit (1000BASE-T) uses all 4 pairs and sends data both directions on each pair simultaneously, which is more advanced than the older transmit-only/receive-only pair setup.
   - 
     <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus1333.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus1333.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   ### Fiber Optics:
@@ -106,7 +106,7 @@ In today's progress, I've covered:
     - Single-mode (SMF): much smaller core, uses lasers, can travel tens of kilometers, but costs more. Used for long-distance or inter-building links.
     
     <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus16.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus16.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
 ## The Ethernet Frame:
@@ -117,6 +117,6 @@ In today's progress, I've covered:
   - FCS (Frame Check Sequence): a checksum the receiver uses to detect transmission errors
      
     <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus17.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus17.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
