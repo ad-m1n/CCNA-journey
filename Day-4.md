@@ -45,7 +45,11 @@
   - This consistency is what lets a switch forward traffic seamlessly between, say, a fiber link and a copper link — the "envelope" wrapping the data never changes shape.
   
   <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus12.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus12.png?raw=true" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+  </p>
+  
+  <p align="center">
+    Illustration on Data Link Layer Terms.
   </p>
   
   ### UTP (Unshielded Twisted-Pair) Cabling:
@@ -62,11 +66,6 @@
 
   - Lower speeds (10/100 Mbps) only need 2 of the 4 pairs in the cable; Gigabit speeds use all 4. 
   - Switches often use swappable transceivers instead of fixed ports — GBIC (older, bulky) evolved into SFP (compact, 1 Gbps) and SFP+ (same size, but 10 Gbps).
-  - Examples of Types of Ethernet:
-
-    <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus1333.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
-  </p>
   
   ### Pinouts:
   - Devices are wired with opposite transmit/receive logic depending on their roles:
@@ -87,9 +86,9 @@
   </p>
   
   - Gigabit (1000BASE-T) uses all 4 pairs and sends data both directions on each pair simultaneously, which is more advanced than the older transmit-only/receive-only pair setup.
-    
+  - 
     <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus15.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus1333.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   ### Fiber Optics:
