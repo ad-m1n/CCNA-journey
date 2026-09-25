@@ -48,7 +48,7 @@ In this process, there are 3 stages: FIN/ACK, ACK, FIN/ACK, ACK
   - ACK (Acknowledge): Acknowledges request; connection fully closes on both ends.
  
 <p align="center">
-  <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus4.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+  <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus4.png" alt="Day 3-Networking fundamentals: Connections" width="500">
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ In this process, there are 3 stages: FIN/ACK, ACK, FIN/ACK, ACK
         - Message 4 (Client to AP): Client confirms key installation, establishing an encrypted link.
 
 <p align="center">
-  <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus5.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+  <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus5.png" alt="Day 3-Networking fundamentals: Connections" width="500">
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
       
 
   <p align="center">
-  <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus1.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+  <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus1.png" alt="Day 3-Networking fundamentals: Connections" width="500">
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
 
   
   <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus2.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus2.png" alt="Day 3-Networking fundamentals: Connections" width="500">
   </p>
 
   <p align="center">
@@ -125,7 +125,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
     Application State: Manages user authentication, sessions, and protocol-specific errors independently of the underlying network.
 
   <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus3.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus3.png" alt="Day 3-Networking fundamentals: Connections" width="500">
   </p>
   <p align="center">
    Application-layer protocol.
@@ -158,7 +158,7 @@ In this process, there are 3 stages: SYN, SYN-ACK and ACK
   - Application – HTTP, FTP, DNS, etc.
 
      <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus6.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus6.png" alt="Day 3-Networking fundamentals: Connections" width="500">
   </p>
   <p align="center">
    The OSI Model.
@@ -194,7 +194,7 @@ Application Layer(HTTP, SMTP, FTP or Raw Data)<---Security layer(Encryption, Aut
   Immediately after the TCP 3-way handshake finishes, the TLS handshake negotiates encryption parameters.
 
    <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus7.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus7.png" alt="Day 3-Networking fundamentals: Connections" width="500">
   </p>
   <p align="center">
    The TSL Handshake.
@@ -206,7 +206,7 @@ Application Layer(HTTP, SMTP, FTP or Raw Data)<---Security layer(Encryption, Aut
   Encrypts specific application traffic (e.g., HTTPS)
 
  <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/assets/illus8.png" alt="Day 3-Networking fundamentals: Connections" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus8.png" alt="Day 3-Networking fundamentals: Connections" width="500">
   </p>
   <p align="center">
    The TSL/SSL concept.
