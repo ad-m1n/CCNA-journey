@@ -66,7 +66,7 @@ The router (The Internet) is represented as a communication path for land 1 and 
 ## Simple Network Typology:
 
   <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/lab-01.png" alt="Day 02 test" width="1000">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/lab-01.png" alt="Day 02 test" width="1000">
   </p>
   
   <p align="center">
