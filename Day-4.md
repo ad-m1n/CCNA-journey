@@ -12,7 +12,7 @@
     Illustration on SOHO LANs.
   </p>
 
-## Typical Enterprise:
+## Typical Enterprise LANs:
 - Enterprise LAN: Larger-scale network (100s–1000s of devices) built for reliability, security, and scalability, using separate dedicated devices for each function instead of one all-in-one box.
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-##Ethernet Fundamentals:
+## Ethernet Fundamentals:
   ### Physical layer (IEEE 802.3-official set of technical standars definind wired Ethernet LANs):
   - A family of standards under IEEE 802.3, covering speeds from 10Mbps to 400 Gbps.
   - 2 media types carry the signals: 
@@ -37,7 +37,7 @@
   </p>
   
   <p align="center">
-    Illustration on OTP and Fiber-optic media.
+    Illustration on UTP and Fiber-optic media.
   </p>
 
   ### Data-Link layer:
@@ -48,16 +48,10 @@
     <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus12.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
-  <p align="center">
-    Illustration on OTP and Fiber-optic media.
-  </p>
-  
-  ### UTP Cabling:
-  -To send data over copper, you need a closed electrical loop, which is why wires come in pairs. 
-  - Twisting each pair cancels out electromagnetic interference (EMI) that would otherwise cause crosstalk between wires. 
-  - Lower speeds (10/100 Mbps) only need 2 of the 4 pairs in the cable; Gigabit speeds use all 4. 
-  - Switches often use swappable transceivers instead of fixed ports — GBIC (older, bulky) evolved into SFP (compact, 1 Gbps) and SFP+ (same size, but 10 Gbps).
-  
+  ### UTP (Unshielded Twisted-Pair) Cabling:
+  - To send data over copper, you need a closed electrical loop, which is why wires come in pairs. 
+  - Twisting each pair cancels out electromagnetic interference (EMI) that would otherwise cause crosstalk between wires.
+  - 
   <p align="center">
     <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus13.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
@@ -65,14 +59,22 @@
   <p align="center">
     Illustration on UTP cabling.
   </p>
+
+  - Lower speeds (10/100 Mbps) only need 2 of the 4 pairs in the cable; Gigabit speeds use all 4. 
+  - Switches often use swappable transceivers instead of fixed ports — GBIC (older, bulky) evolved into SFP (compact, 1 Gbps) and SFP+ (same size, but 10 Gbps).
+  - Examples of Types of Ethernet:
+
+    <p align="center">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus1333.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+  </p>
   
   ### Pinouts:
-  - Devices are wired with opposite transmit/receive logicdepending on their roles:
+  - Devices are wired with opposite transmit/receive logic depending on their roles:
     - PCs, routers, and access points: transmit on pins 1&2, receive on 3&6
     - Switches and hubs: transmit on pins 3&6, receive on 1&2
     
     <p align="center">
-    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus13.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
+    <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/illus133.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
   
   - This determines the cable types needed:
