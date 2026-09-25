@@ -104,7 +104,7 @@ In today's progress, I've covered:
   </p>
   
   - Gigabit (1000BASE-T) uses all 4 pairs and sends data both directions on each pair simultaneously, which is more advanced than the older transmit-only/receive-only pair setup.
-  - 
+     
     <p align="center">
     <img src="https://github.com/ad-m1n/CCNA-journey/blob/main/assets/illus1333.png" alt="Day 4-Fundamentals of Ethernet LANs" width="500">
   </p>
